@@ -1,0 +1,3 @@
+< attr = "SIZE_OF_MEMORY_IN_BLOCKS"  value = 100 />
+< attr = "MAX_PROCESS"               value = 3   />
+< attr = "SIZE_OF_MEMORY_IN_PAGE"    value = 24  />

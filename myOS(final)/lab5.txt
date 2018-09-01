@@ -1,0 +1,12 @@
+11
+	memory->setCmd(Rmem,r1,70);
+	memory->setCmd(Mov,r2,3);
+	memory->setCmd(Add,r1,r2);
+	memory->setCmd(Mul,r1,2);
+	memory->setCmd(Mov,r3,2);
+	memory->setCmd(Mov,r4,6);
+	memory->setCmd(Add,r3,r4);
+	memory->setCmd(Mul,r3,10);
+	memory->setCmd(Sub,r1,r3);
+	memory->setCmd(Int,r1,Dev);
+	memory->setCmd(Int,0,Exit);

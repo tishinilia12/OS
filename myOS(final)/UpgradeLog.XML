@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="myOS">
+</Property><Property Name="Файл решения" Value="C:\Users\sas\Desktop\myos\myOS.sln">
+</Property><Property Name="Файл параметров пользователя" Value="C:\Users\sas\Desktop\myos\myOS.suo">
+</Property><Property Name="Date" Value="28 апреля 2012 г.">
+</Property><Property Name="Time" Value="12:38">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="myOS.sln" Description="Успешно создана резервная копия файла C:\Users\sas\Desktop\myos\myOS.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="myOS.suo" Description="Успешно создана резервная копия файла C:\Users\sas\Desktop\myos\myOS.suo.old">
+</Event><Event ErrorLevel="0" Project="myOS" Source="myOS.vcproj" Description="Converting project file 'C:\Users\sas\Desktop\myos\myOS.vcproj'.">
+</Event><Event ErrorLevel="1" Project="myOS" Source="myOS.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="myOS" Source="myOS.vcproj" Description="Done converting to new project file 'C:\Users\sas\Desktop\myos\myOS.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="myOS" Source="myOS.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="myOS.sln" Description="Преобразование решения успешно завершено">
+</Event><Event ErrorLevel="3" Project="" Source="myOS.sln" Description="Converted">
+</Event></UpgradeLog>
