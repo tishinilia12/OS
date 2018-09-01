@@ -1,0 +1,53 @@
+﻿Сборка начата 03.01.2017 14:32:26.
+     1>Проект "C:\Users\Илья\Documents\Visual Studio 2013\Projects\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ConsoleApplication6.cpp
+         ConsoleApplication6.cpp
+     1>c:\users\илья\documents\visual studio 2013\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(115): warning C4018: >=: несоответствие типов со знаком и без знака
+     1>c:\users\илья\documents\visual studio 2013\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(119): warning C4800: int: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+     1>c:\users\илья\documents\visual studio 2013\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(138): warning C4018: >=: несоответствие типов со знаком и без знака
+     1>c:\users\илья\documents\visual studio 2013\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(152): warning C4018: >=: несоответствие типов со знаком и без знака
+     1>c:\users\илья\documents\visual studio 2013\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(194): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 12.0\vc\include\stdio.h(283): см. объявление "scanf"
+     1>c:\users\илья\documents\visual studio 2013\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(200): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 12.0\vc\include\stdio.h(283): см. объявление "scanf"
+     1>c:\users\илья\documents\visual studio 2013\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(224): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 12.0\vc\include\stdio.h(283): см. объявление "scanf"
+     1>c:\users\илья\documents\visual studio 2013\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(235): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 12.0\vc\include\stdio.h(283): см. объявление "scanf"
+     1>c:\users\илья\documents\visual studio 2013\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(236): warning C4018: >=: несоответствие типов со знаком и без знака
+     1>c:\users\илья\documents\visual studio 2013\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(241): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 12.0\vc\include\stdio.h(283): см. объявление "scanf"
+     1>c:\users\илья\documents\visual studio 2013\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(260): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 12.0\vc\include\stdio.h(283): см. объявление "scanf"
+     1>c:\users\илья\documents\visual studio 2013\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(261): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 12.0\vc\include\stdio.h(283): см. объявление "scanf"
+     1>c:\users\илья\documents\visual studio 2013\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(262): warning C4018: >=: несоответствие типов со знаком и без знака
+     1>c:\users\илья\documents\visual studio 2013\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(275): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 12.0\vc\include\stdio.h(283): см. объявление "scanf"
+     1>c:\users\илья\documents\visual studio 2013\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(276): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 12.0\vc\include\stdio.h(283): см. объявление "scanf"
+     1>c:\users\илья\documents\visual studio 2013\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(277): warning C4018: >=: несоответствие типов со знаком и без знака
+     1>c:\users\илья\documents\visual studio 2013\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(285): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 12.0\vc\include\stdio.h(283): см. объявление "scanf"
+     1>c:\users\илья\documents\visual studio 2013\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(289): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 12.0\vc\include\stdio.h(283): см. объявление "scanf"
+     1>c:\users\илья\documents\visual studio 2013\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(293): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 12.0\vc\include\stdio.h(283): см. объявление "scanf"
+     1>c:\users\илья\documents\visual studio 2013\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(394): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\илья\documents\visual studio 2013\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(414): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\илья\documents\visual studio 2013\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(433): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\илья\documents\visual studio 2013\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(444): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\илья\documents\visual studio 2013\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(455): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\илья\documents\visual studio 2013\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(481): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\илья\documents\visual studio 2013\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(518): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\илья\documents\visual studio 2013\projects\consoleapplication6\consoleapplication6\consoleapplication6.cpp(595): warning C4018: <: несоответствие типов со знаком и без знака
+       Link:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Илья\Documents\Visual Studio 2013\Projects\ConsoleApplication6\Debug\ConsoleApplication6.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Илья\Documents\Visual Studio 2013\Projects\ConsoleApplication6\Debug\ConsoleApplication6.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Илья\Documents\Visual Studio 2013\Projects\ConsoleApplication6\Debug\ConsoleApplication6.lib" /MACHINE:X86 Debug\ConsoleApplication6.obj
+         Debug\stdafx.obj
+         ConsoleApplication6.vcxproj -> C:\Users\Илья\Documents\Visual Studio 2013\Projects\ConsoleApplication6\Debug\ConsoleApplication6.exe
+     1>Сборка проекта "C:\Users\Илья\Documents\Visual Studio 2013\Projects\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:01.21
